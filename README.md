@@ -1,0 +1,1 @@
+An animated hamburger menu button programmed to respond on click.
